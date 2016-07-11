@@ -2,7 +2,7 @@
 Для студентов 2-3 курса на летней практике
 
  1. Установить Linux Mint/Ubuntu или др. 
- 2. Изучить основные комманды Linux (http://rubycode.ru/uploads/posts/2015-03/1425943940_1297098517831.png).
+ 2. Изучить основные комманды Linux (https://github.com/art-mironoff/summer-practice/blob/master/images/linux.png?raw=true).
  3. Ознакомиться с git (https://git-scm.com/book/ru/v1 ). Основные моменты:
     - Create branch
     - Commit
