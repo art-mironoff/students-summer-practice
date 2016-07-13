@@ -13,3 +13,8 @@
  5. Изучить основы HTML5 (http://htmlbook.ru/samhtml/)
  6. Изучить основы CSS3 (http://htmlbook.ru/samcss)
  7. Выполнить задания выданные руководителем, делая коммиты в созданный ранее GitHub аккаунт.
+
+# Полезные ссылки для изучения
+1. http://sass-lang.com/
+1. http://learn.javascript.ru/
+2. https://learn.jquery.com/
